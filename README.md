@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 python3 -m pip install -r requirements.txt
 Usage
+python3 --help
